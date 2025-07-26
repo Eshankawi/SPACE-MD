@@ -1,6 +1,6 @@
 {
-  "name": "SPACE-MD",
-  "description": "SPACE-MD, your day to day assistant!",
+  "name": "ES-MD",
+  "description": "ES-MD, your day to day assistant!",
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/SPACE-MD",
@@ -21,7 +21,7 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "94789119916",
     "required": true
   },
   "GITHUB_USERNAME": {
